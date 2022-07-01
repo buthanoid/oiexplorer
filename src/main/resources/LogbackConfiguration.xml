@@ -10,6 +10,7 @@
     -->
 
     <!-- OIExplorer -->
-    <logger name="fr.jmmc.oiexplorer" level="INFO"/>
+    <logger name="fr.jmmc.oiexplorer" level="DEBUG"/>
+    <logger name="fr.jmmc.oiexplorer.core" level="DEBUG"/>
 
 </included>
