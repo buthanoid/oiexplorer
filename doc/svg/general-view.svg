@@ -14,16 +14,20 @@
     <text font-size="14.6756" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="439.494" y="138.381">
       <tspan x="439.494" y="138.381">View Panel</tspan>
     </text>
-    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="156.884" y="0.274216" width="151.137" height="137.257" rx="0" ry="0"/>
-    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="158.427" y="149.097" width="148.052" height="122.606" rx="0" ry="0"/>
-    <text font-size="14.6756" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="164.323" y="73.2778">
-      <tspan x="164.323" y="73.2778">Granule Tree Panel</tspan>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="156.884" y="0.274216" width="151.137" height="84.4758" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="160.427" y="97.5975" width="148.052" height="91.1523" rx="0" ry="0"/>
+    <text font-size="14.6756" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="162.323" y="49.2778">
+      <tspan x="162.323" y="49.2778">Granule Tree Panel</tspan>
     </text>
-    <text font-size="14.6756" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="178.405" y="213.396">
-      <tspan x="178.405" y="213.396">Data Tree Panel</tspan>
+    <text font-size="14.6756" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="175.905" y="146.896">
+      <tspan x="175.905" y="146.896">Data Tree Panel</tspan>
     </text>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="236" y="67">
       <tspan x="236" y="67"></tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="159.901" y="201.25" width="148.052" height="66.9999" rx="0" ry="0"/>
+    <text font-size="11.7969" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="171.379" y="241.898">
+      <tspan x="171.379" y="241.898">Generic Filters Panel</tspan>
     </text>
   </g>
 </svg>

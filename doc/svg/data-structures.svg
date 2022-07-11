@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="72cm" height="40cm" viewBox="-73 89 1433 799" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="66cm" height="43cm" viewBox="112 89 1302 850" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs/>
   <g id="Background">
-    <rect style="fill: #e5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke-dasharray: 4; stroke: #4d4d4d" x="506.192" y="303.774" width="852.66" height="583.305" rx="20" ry="20"/>
+    <rect style="fill: #e5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke-dasharray: 4; stroke: #4d4d4d" x="506.192" y="303.774" width="906.621" height="634.226" rx="20" ry="20"/>
     <g>
       <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="297" y="158" width="340.95" height="28"/>
       <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="467.475" y="176.852">OIFitsCollectionManager (alias OCM)</text>
@@ -91,61 +91,61 @@
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="627.4" y="500.876">*</text>
     </g>
     <g>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1179.67" y="505.752" width="148.6" height="28"/>
-      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1253.97" y="524.604">PlotDefinition</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1179.67" y="533.752" width="148.6" height="52"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1182.67" y="547.633">-xAxis: Axis</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1182.67" y="563.633">-yAxes: List&lt;Axis&gt;</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1182.67" y="579.633">-ColorMapping</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1179.67" y="585.752" width="148.6" height="8"/>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1229.19" y="506.211" width="148.6" height="28"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1303.49" y="525.062">PlotDefinition</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1229.19" y="534.211" width="148.6" height="52"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1232.19" y="548.092">-xAxis: Axis</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1232.19" y="564.092">-yAxes: List&lt;Axis&gt;</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1232.19" y="580.092">-ColorMapping</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1229.19" y="586.211" width="148.6" height="8"/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="673.55,459.178 673.55,476.376 1253.97,476.376 1253.97,504.747 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="673.55,459.178 673.55,476.606 1303.49,476.606 1303.49,505.205 "/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="673.55,434.006 678.35,448.006 673.55,462.006 668.75,448.006 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="963.76" y="473.358"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="988.519" y="473.587"/>
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="684.55" y="445.888"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1257.97" y="500.628">*</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1307.49" y="501.086">*</text>
     </g>
     <g>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1168.07" y="647.968" width="171.7" height="28"/>
-      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1253.92" y="666.82">Axis</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1168.07" y="675.968" width="171.7" height="20"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1171.07" y="689.849">-String (column name)</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1168.07" y="695.968" width="171.7" height="8"/>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1217.26" y="652.173" width="171.7" height="28"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1303.11" y="671.025">Axis</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1217.26" y="680.173" width="171.7" height="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1220.26" y="694.054">-String (column name)</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1217.26" y="700.173" width="171.7" height="8"/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1253.97,619.929 1253.97,627.859 1253.92,627.859 1253.92,646.961 "/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1253.97,594.757 1258.77,608.757 1253.97,622.757 1249.17,608.757 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1253.95" y="624.84"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1264.97" y="606.639"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1257.92" y="642.842">*</text>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1303.49,620.388 1303.49,630.191 1303.11,630.191 1303.11,651.166 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1303.49,595.216 1308.29,609.216 1303.49,623.216 1298.69,609.216 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1303.3" y="627.172"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1314.49" y="607.097"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1307.11" y="647.047">*</text>
     </g>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="932.522" y="595.426">
-      <tspan x="932.522" y="595.426"></tspan>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="959.502" y="620.887">
+      <tspan x="959.502" y="620.887"></tspan>
     </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1226.65" y="337.566">
-      <tspan x="1226.65" y="337.566">XML imp/export</tspan>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1275.93" y="342.105">
+      <tspan x="1275.93" y="342.105">XML imp/export</tspan>
     </text>
     <g>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="995.272" y="505.81" width="140.9" height="28"/>
-      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1065.72" y="524.662">Plot</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="995.272" y="533.81" width="140.9" height="36"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="998.272" y="547.691">-PlotDefinition</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="998.272" y="563.691">-SubsetDefinition</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="995.272" y="569.81" width="140.9" height="8"/>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1031.04" y="506.727" width="140.9" height="28"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1101.49" y="525.579">Plot</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1031.04" y="534.727" width="140.9" height="36"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1034.04" y="548.608">-PlotDefinition</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1034.04" y="564.608">-SubsetDefinition</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1031.04" y="570.727" width="140.9" height="8"/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1178.66,549.752 1157.92,549.752 1157.92,541.81 1137.18,541.81 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1159.92" y="542.762"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1174.66" y="546.733">1</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1141.18" y="538.791"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1228.18,550.211 1200.56,550.211 1200.56,542.727 1172.94,542.727 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1202.56" y="543.45"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1224.18" y="547.192">1</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1176.94" y="539.708"/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="673.55,459.178 673.55,476.404 1065.72,476.404 1065.72,504.801 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="673.55,459.178 673.55,476.862 1101.49,476.862 1101.49,505.718 "/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="673.55,434.006 678.35,448.006 673.55,462.006 668.75,448.006 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="869.636" y="473.385"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="887.518" y="473.843"/>
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="684.55" y="445.888"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1069.72" y="500.682">*</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1105.49" y="501.599">*</text>
     </g>
     <g>
       <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1084.79" y="183.167" width="30.75" height="38" rx="0" ry="0"/>
@@ -169,67 +169,80 @@
       <tspan x="1081.86" y="245.286">A references one B</tspan>
     </text>
     <g>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="759.032" y="505.534" width="194.8" height="28"/>
-      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="856.432" y="524.386">SubsetDefinition</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="759.032" y="533.534" width="194.8" height="36"/>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="759.032" y="505.534" width="225.6" height="28"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="871.832" y="524.386">SubsetDefinition</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="759.032" y="533.534" width="225.6" height="36"/>
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="762.032" y="547.415">-List&lt;SubsetFilter&gt;</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="762.032" y="563.415">-OIFitsFile (not in XML)</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="759.032" y="569.534" width="194.8" height="8"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="762.032" y="563.415">-SelectorResult (not in XML)</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="759.032" y="569.534" width="225.6" height="8"/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="673.55,459.178 673.55,476.266 856.432,476.266 856.432,504.525 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="673.55,459.178 673.55,476.266 871.832,476.266 871.832,504.525 "/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="673.55,434.006 678.35,448.006 673.55,462.006 668.75,448.006 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="764.991" y="473.247"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="772.691" y="473.247"/>
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="684.55" y="445.888"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="860.432" y="500.406">*</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="875.832" y="500.406">*</text>
     </g>
     <g>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="778.26" y="630.512" width="156.3" height="28"/>
-      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="856.41" y="649.364">SubsetFilter</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="778.26" y="658.512" width="156.3" height="68"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="781.26" y="672.393">-targetUID: String</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="781.26" y="688.393">-insModeUID: String</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="781.26" y="704.393">-nightID: Integer</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="781.26" y="720.393">-List&lt;TableUID&gt;</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="778.26" y="726.512" width="156.3" height="8"/>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="652.26" y="665.512" width="156.3" height="28"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="730.41" y="684.364">SubsetFilter</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="652.26" y="693.512" width="156.3" height="68"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="655.26" y="707.393">-targetUID: String</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="655.26" y="723.393">-insModeUID: String</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="655.26" y="739.393">-nightID: Integer</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="655.26" y="755.393">-List&lt;TableUID&gt;</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="652.26" y="761.512" width="156.3" height="8"/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="856.432,603.715 856.432,611.024 856.41,611.024 856.41,629.506 "/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="856.432,578.543 861.232,592.543 856.432,606.543 851.632,592.543 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="856.421" y="608.006"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="867.432" y="590.424"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="860.41" y="625.387">*</text>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="871.832,603.715 871.832,628.524 730.41,628.524 730.41,664.506 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="871.832,578.543 876.632,592.543 871.832,606.543 867.032,592.543 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="801.121" y="625.506"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="882.832" y="590.424"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="734.41" y="660.387">*</text>
     </g>
     <g>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="809.18" y="785.312" width="94.7" height="28"/>
-      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="856.53" y="804.164">TableUID</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="809.18" y="813.312" width="94.7" height="52"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="812.18" y="827.193">-OIDataFile</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="812.18" y="843.193">-extName</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="812.18" y="859.193">-extNb</text>
-      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="809.18" y="865.312" width="94.7" height="8"/>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="683.18" y="820.312" width="94.7" height="28"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="730.53" y="839.164">TableUID</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="683.18" y="848.312" width="94.7" height="52"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="686.18" y="862.193">-OIDataFile</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="686.18" y="878.193">-extName</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="686.18" y="894.193">-extNb</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="683.18" y="900.312" width="94.7" height="8"/>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="856.41,760.69 856.41,766.912 856.53,766.912 856.53,784.307 "/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="856.41,735.518 861.21,749.518 856.41,763.518 851.61,749.518 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="856.47" y="763.894"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="867.41" y="747.4"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="860.53" y="780.188">*</text>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="730.41,795.69 730.41,801.912 730.53,801.912 730.53,819.307 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="730.41,770.518 735.21,784.518 730.41,798.518 725.61,784.518 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="730.47" y="798.894"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="741.41" y="782.4"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="734.53" y="815.188">*</text>
     </g>
     <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="994.263,541.81 974.551,541.81 974.551,541.534 954.838,541.534 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="976.551" y="538.653"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="990.263" y="538.791"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="958.838" y="538.515">1</text>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1030.03,542.727 1007.83,542.727 1007.83,541.534 985.639,541.534 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1009.83" y="539.112"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1026.03" y="539.708"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="989.639" y="538.515">1</text>
     </g>
     <g>
-      <rect style="fill: #ff9ea8; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-71.2192" y="333.268" width="125.5" height="28"/>
-      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-8.4692" y="352.12">Granule</text>
-      <rect style="fill: #ff9ea8; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-71.2192" y="361.268" width="125.5" height="52"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-68.2192" y="375.149">-Target</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-68.2192" y="391.149">-InstrumentMode</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-68.2192" y="407.149">-NightId</text>
-      <rect style="fill: #ff9ea8; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-71.2192" y="413.268" width="125.5" height="8"/>
+      <rect style="fill: #ff9ea8; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="119.517" y="444.225" width="125.5" height="28"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="182.267" y="463.077">Granule</text>
+      <rect style="fill: #ff9ea8; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="119.517" y="472.225" width="125.5" height="52"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="122.517" y="486.106">-Target</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="122.517" y="502.106">-InstrumentMode</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="122.517" y="518.106">-NightId</text>
+      <rect style="fill: #ff9ea8; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="119.517" y="524.225" width="125.5" height="8"/>
+    </g>
+    <g>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="851.8" y="664.7" width="156.3" height="28"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="929.95" y="683.552">GenericFilter</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="851.8" y="692.7" width="156.3" height="36"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="854.8" y="706.581">-columnName: String</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="854.8" y="722.581">-List&lt;Range&gt;</text>
+      <rect style="fill: #c0f0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="851.8" y="728.7" width="156.3" height="8"/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="871.832,603.715 871.832,628.117 929.95,628.117 929.95,663.691 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="871.832,578.543 876.632,592.543 871.832,606.543 867.032,592.543 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="933.95" y="659.572">*</text>
     </g>
   </g>
 </svg>

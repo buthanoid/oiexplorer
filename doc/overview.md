@@ -14,15 +14,17 @@ The set of the loaded files forms an "OIFits Collection" which can be saved to t
 
 ![general view of the oifits explorer interface](svg/general-view.svg)
 
-The Viewer Panel (VP) displays the plots and the data.
+The Viewer Panel displays the plots and the data.
 You can add some other views (tabs), but currently all views display the same datas. You can only tune the plot of each view (change the axis column, change colors etc). Each view has exactly one plot, but one plot have in fact several Y axes so you could say that it contains several subplots.
 
-The Granule Tree Panel (GTP) displays the available tables, sorted in the following arborescence:
+The Granule Tree Panel (displays the available tables, sorted in the following arborescence:
 Target > Instrument mode > Night > File > Table
 One characteristic of this tree is that you can flatten some levels (the Night level for example). You can also reorder the granule fields (Target, InstrumentMode, NightId).
 
-The Data Tree Panel (DTP) has a tree similar to the one in GTP, but you cannot flatten levels and the arborescence is always Target > Instrument mode > Table.
-It is an action panel: by clicking on a node or leaf of the tree, it select the currently displayed data in the VP. Selecting a leaf selects one table, and selecting a node selects one or several tables.
+The Data Tree Panel has a tree similar to the one in the Granule Tree Panel, but you cannot flatten levels and the arborescence is always Target > Instrument mode > Table.
+You can click on a node of the tree and it represents your current subset of data from the collection of loaded OIfits file. Selecting a Target node restricts the subset to data belonging to this target. Selecting an Instrument Mode restricts the subset to data belonging to this Instrument Mode and its parent Target node. Finally, selecting one or several tables belonging to the same Target restricts the data to these tables.
+
+The Generic Filter Panel is initially empty. It is used to apply additional filters on the subset of data. For example you an add a filter to restrict data with wavelength between 2.03 and 2.10 micrometers. 
 
 
 ## The OIFitsCollectionManager class
@@ -87,4 +89,10 @@ One Plot references one SubsetDefinition and one PlotDefinition. So one Plot con
 For example, you can create two plots, with each its own PlotDefinition, but both sharing the same SubsetDefinition.
 
 Currently in OIFits Explorer the interface has the concept of "views". A view is a Plot but all views share the same SubsetDefinition. Each view has its own PlotDefinition. This may be augmented in the future.
+
+#### SubsetFilter and GenericFilter
+
+See [Data Selection Mechanism](data-selection-mechanism.md).
+
+
 
